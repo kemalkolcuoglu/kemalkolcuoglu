@@ -2,11 +2,11 @@
 <h3 align="center">A DevOps Engineer who try to make everything automate</h3>
 
 
-- 🌱 I’m currently learning **Ansible, Jenkins, Docker**
+- 🌱 I’m currently learning **Elasticsearch, Docker**
 
 - 👨‍💻 All of my projects are available at [http://kolcuoglu.net/Portfoy/Liste](http://kolcuoglu.net/Portfoy/Liste)
 
-- 📝 I regulary write articles on [http://kolcuoglu.net/Blog/Liste](http://kolcuoglu.net/Blog/Liste)
+- 📝 I regulary write articles on [My Web Site](http://kolcuoglu.net/Blog/Liste) and [Dev Community](https://dev.to/kemalkolcuoglu/elasticsearch-snapshots-feature-2m81)
 
 - 💬 Ask me about -> **Python, C#**
 
