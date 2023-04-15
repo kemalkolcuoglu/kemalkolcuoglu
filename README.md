@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
-<h3 align="center">A DevOps Engineer who try to make everything automate</h3>
+<h3 align="center">A Computer Engineer who would like to learn everything about software!</h3>
 
 
-- 🌱 I’m currently learning **Elasticsearch, Docker**
+- 🌱 I’m currently learning **Laravel, PostGres**
 
-- 👨‍💻 All of my projects are available at [http://kolcuoglu.net/Portfoy/Liste](http://kolcuoglu.net/Portfoy/Liste)
+- 📝 I sometimes write articles on [My Web Site](http://kolcuoglu.net/Blog/) and [Dev Community](https://dev.to/kemalkolcuoglu/elasticsearch-snapshots-feature-2m81)
 
-- 📝 I regulary write articles on [My Web Site](http://kolcuoglu.net/Blog/Liste) and [Dev Community](https://dev.to/kemalkolcuoglu/elasticsearch-snapshots-feature-2m81)
-
-- 💬 Ask me about -> **Python, C#**
+- 💬 Ask me about -> **Python, ASP.Net, Elasticsearch, Ansible, Linux**
 
 - 📫 How to reach me -> **http://kolcuoglu.net/**
 
